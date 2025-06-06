@@ -1,0 +1,11 @@
+name: kite_scraper_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - beautifulsoup4
+  - lxml
+  - pandas
+  - selenium
+
+prefix: "/Users/gabrielcoulter/miniforge3/envs/kite_scraper_env"
