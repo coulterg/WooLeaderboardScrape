@@ -1,3 +1,7 @@
+/data/
+/public_data/
+/chromedriver-mac-x64/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
